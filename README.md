@@ -16,7 +16,11 @@
 
 ##### - Primeiramente, baixe o projeto pelo Github: ``git clone https://github.com/Flyinng/CRUD-Supermarket``
 
-##### - Após a instação do projeto, execute-o conforme sua IDE.
+##### - Após a instação do projeto, instale o DB Browser em: ``https://sqlitebrowser.org/``
+
+##### - Depois, execute o arquivo ``criar_banco.py`` em sua IDE.
+
+##### - Após isso, execute o arquivo ``supermercado.py``.
 
 ###### _Projeto desenvolvido na turma de Python do Programa Entra21_
 
