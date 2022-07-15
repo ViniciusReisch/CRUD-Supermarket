@@ -10,8 +10,6 @@
 
 ##### - Recolhe dados de seu CEP e implementa no Banco 
 
-##### - Realiza vendas descontando saldo do cliente cadastrado
-
 ### Como baixar e executar o projeto:
 
 ##### - Primeiramente, baixe o projeto pelo Github: ``git clone https://github.com/Flyinng/CRUD-Supermarket``
@@ -23,4 +21,3 @@
 ##### - Após isso, execute o arquivo ``supermercado.py``.
 
 ###### _Projeto desenvolvido na turma de Python do Programa Entra21_
-
