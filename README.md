@@ -1,5 +1,7 @@
 # CRUD-Supermarket EN-US 🛒
 
+[README em PT-BR](https://github.com/Flyinng/CRUD-Supermarket/blob/main/README-PT-BR.md)
+
 ### CRUD repository from a supermarket created in Python
 
 ### Program features:
