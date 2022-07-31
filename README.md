@@ -20,4 +20,5 @@
 
 ##### - Após isso, execute o arquivo ``supermercado.py``.
 
-###### _Projeto desenvolvido na turma de Python do Programa Entra21_
+<br>
+<h4> 📜Projeto desenvolvido na turma de Python do Programa Entra21 </h4>
