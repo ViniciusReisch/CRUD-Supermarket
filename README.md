@@ -1,4 +1,4 @@
-# CRUD-Supermarket 🛒
+# CRUD-Supermarket PT-BR 🛒
 
 ### Repositório de CRUD de um mercado criado em Python
 
