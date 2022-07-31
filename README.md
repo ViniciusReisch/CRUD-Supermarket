@@ -1,24 +1,24 @@
-# CRUD-Supermarket PT-BR 🛒
+# CRUD-Supermarket EN-US 🛒
 
-### Repositório de CRUD de um mercado criado em Python
+### CRUD repository from a supermarket created in Python
 
-### Funcionalidades do programa:
+### Program features:
 
- - Criar, Atualizar e Deletar Contas, Produtos e Vendas
+ - Create, Update and Delete Accounts, Products and Sales
+ 
+ - Analyzes if the registration CPF is valid
 
- - Analisa se o CPF de cadastro é valido
+ - Collects data from your CEP and implements it in the Bank
 
- - Recolhe dados de seu CEP e implementa no Banco 
+### How to download and run the project:
 
-### Como baixar e executar o projeto:
+ - First, download the project from Github: ``git clone https://github.com/Flyinng/CRUD-Supermarket``
 
- - Primeiramente, baixe o projeto pelo Github: ``git clone https://github.com/Flyinng/CRUD-Supermarket``
+ - After installing the project, install DB Browser at: ``https://sqlitebrowser.org/``
 
- - Após a instação do projeto, instale o DB Browser em: ``https://sqlitebrowser.org/``
+ - Run the ``criar_banco.py`` file in your IDE.
 
- - Depois, execute o arquivo ``criar_banco.py`` em sua IDE.
-
- - Após isso, execute o arquivo ``supermercado.py``.
+ - After that, run the ``supermercado.py`` file.
 
 <br>
-<h4> 📜Projeto desenvolvido na turma de Python do Programa Entra21 </h4>
+<h4> 📜Project developed in the Entra21 Python Class</h4>
