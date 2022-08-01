@@ -2,7 +2,7 @@
 
 [README in EN-US](https://github.com/Flyinng/CRUD-Supermarket/blob/main/README.md)
 
-### Repositório de CRUD de um mercado criado em Python
+### Repositório de CRUD de um mercado criado em ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 ### Funcionalidades do programa:
 
@@ -23,4 +23,4 @@
  - Após isso, execute o arquivo ``supermercado.py``.
 
 <br>
-<h4> 📜Projeto desenvolvido na turma de Python do Programa Entra21 </h4>
+📜Project developed in the <a href="https://www.entra21.com.br/">Entra21</a> Python Class
