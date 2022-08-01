@@ -2,7 +2,7 @@
 
 [README em PT-BR](https://github.com/Flyinng/CRUD-Supermarket/blob/main/README-PT-BR.md)
 
-### CRUD repository from a supermarket created in Python
+### CRUD repository from a supermarket created in ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 
 ### Program features:
 
@@ -22,5 +22,4 @@
 
  - After that, run the ``supermercado.py`` file.
 
-<br>
-<h4> 📜Project developed in the Entra21 Python Class</h4>
+<br>📜Project developed in the <a href="https://www.entra21.com.br/">Entra21</a> Python Class
